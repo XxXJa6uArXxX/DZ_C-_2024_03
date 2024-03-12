@@ -12,3 +12,4 @@ C:\Users\valer\Documents\GitHub\DZ_C-_2024_03\obj\Debug\net8.0\refint\DZ_C-_2024
 C:\Users\valer\Documents\GitHub\DZ_C-_2024_03\obj\Debug\net8.0\DZ_C-_2024_03.pdb
 C:\Users\valer\Documents\GitHub\DZ_C-_2024_03\obj\Debug\net8.0\DZ_C-_2024_03.genruntimeconfig.cache
 C:\Users\valer\Documents\GitHub\DZ_C-_2024_03\obj\Debug\net8.0\ref\DZ_C-_2024_03.dll
+C:\Users\valer\Documents\GitHub\DZ_C-_2024_03\obj\Debug\net8.0\DZ_C-_2024_03.sourcelink.json
